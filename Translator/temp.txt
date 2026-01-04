@@ -1,0 +1,1000 @@
+1:::Talk to Shilang
+2:::Find the rift and investigate
+3:::Recently, a mysterious rift has appeared in the mine, and the ore merchant, Shilang is troubled by this matter...
+4:::Alloy Smelt
+5:::
+6:::About "Alloy Smelt"
+7:::
+8:::
+9:::Investigate "Breath Rift"
+10:::Inform Shilang about the situation in the rift
+11:::Recently, a mysterious rift has appeared in the mine, and the ore merchant, Shilang is troubled by this matter...
+12:::Alloy Smelt
+13:::Talk to Shui and learn the details
+14:::Reach the first track.
+15:::Shui in the residential area is recruiting new members for the Overdash Club. It seems that one with a lightning overdash speed can earn rich rewards.
+16:::Get Ready! Let's Overdash!
+17:::Talk to Shui and learn the results
+18:::Shui is excited to learn that you have completed setting up all the tracks for the Overdash Club. Will new track challenges await?
+19:::Farewell! Let's Overdash!
+20:::P1
+21:::P2
+22:::P3
+23:::P4
+24:::Event Quest, Overdash Guide
+25:::Overdash Guide Quest
+26:::Take a photo according to the clues
+27:::Reach the correct capture position
+28:::Traces of Mt. Firmament I
+29:::Take a photo of the "Daylight Upon Two Trees"
+30:::Take a photo of the "Daylight Upon Two Trees"
+31:::Climb the lamp post
+32:::Take a photo according to the clues
+33:::View information
+34:::Use Sensor in the correct area
+35:::View information
+36:::Traces of Mt. Firmament II
+37:::Take a photo on the "Lamp by the Pool"
+38:::Take a photo on the "Lamp by the Pool"
+39:::Find the origin of the voice
+40:::Defeat the enemies and rescue the child
+41:::Comfort the frightened child
+42:::Take a photo according to the clues
+43:::Traces of Mt. Firmament III
+44:::Take a photo of the "Circular Wonder in the Mountain"
+45:::Take a photo of the "Circular Wonder in the Mountain"
+46:::Talk to the residents
+47:::Traces of Mt. Firmament IV
+48:::View information
+49:::Traces of Mt. Firmament VII
+50:::Talk to the residents
+51:::Take a photo according to the clues
+52:::Traces of Mt. Firmament VIII
+53:::Take a photo of the "sunset"
+54:::Take a photo of the "sunset"
+55:::View information
+56:::Take a photo according to the clues
+57:::Traces of Mt. Firmament IX
+58:::Take a photo of the "seaside ruins"
+59:::Take a photo of the "seaside ruins"
+60:::Use Sensor at the target location
+61:::View information
+62:::Take a photo according to the clues
+63:::Traces of Mt. Firmament V
+64:::Take a photo of the "Peak" and the "True Loong"
+65:::Take a photo of the "Peak" and the "True Loong"
+66:::Take a photo according to the clues
+67:::Traces of Mt. Firmament VI
+68:::Take a photo of the "skyglow" and the "suspended rocks"
+69:::Take a photo of the "skyglow" and the "suspended rocks"
+70:::Talk to Uncle Fu
+71:::Talk to Uncle Fu
+72:::Take photos
+73:::Uncle Fu says that he has a magical item.\nIt's said that this item is shaped like a scale and has a magical power called Chrono Trace that can make people relive moments from their past...
+74:::Scale of Past
+75:::Complete Depths of Illusive Realm: Dreams Ablaze in Darkness IV
+76:::Talk to the Ebony Gatekeeper
+77:::Talk
+78:::Continue your exploration in the Somnoire. Pursue that familiar figure and extinguish the dark flames he has ignited in your dream...
+79:::Dark Flames in Silence
+80:::
+81:::About Alloy Smelt
+82:::
+83:::
+84:::Clear Carnival in Slumberland IV
+85:::Talk to the Ebony Gatekeeper
+86:::Talk
+87:::Descend into the depth of Somnoire, the depth of dreams. Here, chaos and noises reign. You watch the fabric of the whole place crumble before you. To the deeper dream, you go, and a faint whisper caresses your ear... In the realms of dreams, only the dream itself holds the answers we seek.
+88:::Carnival in Slumberland
+89:::
+90:::
+91:::
+92:::
+93:::
+94:::
+95:::
+96:::
+97:::
+98:::Fallacy of No Return
+99:::Fallacy of No Return: Tethys System
+100:::
+101:::
+102:::
+103:::
+104:::
+105:::
+106:::
+107:::
+108:::
+109:::
+110:::
+111:::
+112:::
+113:::
+114:::Adjust the time meter of the Chronosorter to the center
+115:::
+116:::
+117:::
+118:::
+119:::Read
+120:::
+121:::Use the Chronosorter in the stone room to raise the flagstone
+122:::Use Levitator on the Tacetite Fulminate
+123:::Use the Tacetite Fulminate to raze the Fissured Ledge
+124:::
+125:::
+126:::
+127:::
+128:::
+129:::
+130:::
+131:::Ski to the finishing line
+132:::Challenge Failed
+133:::Challenge Failed
+134:::Challenge Failed
+135:::
+136:::
+137:::
+138:::
+139:::
+140:::
+141:::
+142:::
+143:::
+144:::
+145:::
+146:::Current Score: {q_count}
+147:::Launch Grapple within a designated range to initiate Ski
+148:::Gold: 3000
+149:::Silver: 2000
+150:::Bronze: 1000
+151:::Score Rank: Gold
+152:::Score Rank: Silver
+153:::Score Rank: Bronze
+154:::
+155:::
+156:::
+157:::
+158:::
+159:::
+160:::
+161:::Suspicious Chest
+162:::
+163:::
+164:::
+165:::
+166:::
+167:::
+168:::
+169:::Limited time Overdash challenge
+170:::Reach the destination within the time limit
+171:::
+172:::
+173:::
+174:::
+175:::
+176:::
+177:::
+178:::
+179:::
+180:::Reach the peak of the cliff ahead in time
+181:::Defeat all enemies within 120s
+182:::
+183:::
+184:::Defeat all enemies within 120s ({q_count}/5)
+185:::
+186:::
+187:::
+188:::
+189:::Capture all light orbs and reach the destination in time
+190:::
+191:::
+192:::
+193:::
+194:::Capture all light orbs and reach the destination in time
+195:::Light orbs collected
+196:::
+197:::
+198:::Defeat all enemies within 120s
+199:::
+200:::
+201:::Defeat all enemies within 120s ({q_count}/4)
+202:::
+203:::Defeat all enemies within 120s
+204:::
+205:::
+206:::Defeat all enemies within 120s ({q_count}/7)
+207:::
+208:::Defeat all enemies within 120s
+209:::
+210:::
+211:::Defeat all enemies within 120s ({q_count}/6)
+212:::
+213:::Defeat all enemies within 120s
+214:::
+215:::
+216:::Defeat all enemies within 120s ({q_count}/6)
+217:::
+218:::Challenge Failed
+219:::Challenge Failed
+220:::Challenge Failed
+221:::
+222:::
+223:::
+224:::
+225:::
+226:::
+227:::
+228:::
+229:::
+230:::
+231:::
+232:::Current Score: {q_count}
+233:::Launch Grapple within a designated range to start Skiing
+234:::Gold: 1000
+235:::Silver: 800
+236:::Bronze: 600
+237:::Score Rank: Gold
+238:::Score Rank: Silver
+239:::Score Rank: Bronze
+240:::
+241:::
+242:::
+243:::
+244:::
+245:::
+246:::
+247:::
+248:::
+249:::
+250:::
+251:::
+252:::
+253:::
+254:::
+255:::
+256:::
+257:::
+258:::
+259:::
+260:::
+261:::
+262:::
+263:::
+264:::
+265:::Investigate the source of the sound
+266:::Search for the kitten
+267:::Search for the kitten
+268:::Investigate
+269:::Investigate
+270:::
+271:::Challenge Failed
+272:::
+273:::Fill in the missing ice cube by sitting in the right spot as Clang Bang facing the correct direction
+274:::
+275:::Challenge Complete
+276:::Challenge Failed
+277:::
+278:::Fill in the missing ice cube by sitting in the right spot as Clang Bang facing the correct direction
+279:::
+280:::Challenge Complete
+281:::Challenge Failed
+282:::
+283:::Fill in the missing ice cube by sitting in the right spot as Clang Bang facing the correct direction
+284:::
+285:::Challenge Complete
+286:::Challenge Failed
+287:::
+288:::Transform into a Clang Bang and break through the ice
+289:::
+290:::Challenge Complete
+291:::Challenge Failed
+292:::
+293:::Transform into a Clang Bang and use the Leap Device to break through the ice
+294:::
+295:::
+296:::Challenge Failed
+297:::
+298:::Fill in the missing ice cube by sitting in the right spot as Clang Bang facing the correct direction
+299:::
+300:::Challenge Complete
+301:::Challenge Failed
+302:::
+303:::Fill in the missing ice cube by sitting in the right spot as Clang Bang facing the correct direction
+304:::
+305:::Challenge Complete
+306:::
+307:::Inspect the Echo Challenge
+308:::
+309:::
+310:::
+311:::
+312:::
+313:::
+314:::
+315:::
+316:::Challenge Failed
+317:::
+318:::Fill in the missing ice cube by sitting in the right spot as Clang Bang facing the correct direction
+319:::
+320:::Challenge Complete
+321:::Challenge Failed
+322:::
+323:::Leap Device
+324:::
+325:::Challenge Complete
+326:::Challenge Failed
+327:::
+328:::Fill in the missing ice cube by sitting in the right spot as Clang Bang facing the correct direction
+329:::
+330:::Challenge Complete
+331:::Challenge Failed
+332:::
+333:::Fill in the missing ice cube by sitting in the right spot as Clang Bang facing the correct direction
+334:::
+335:::Challenge Complete
+336:::Challenge Failed
+337:::
+338:::Fill in the missing ice cube by sitting in the right spot as Clang Bang facing the correct direction
+339:::
+340:::Challenge Complete
+341:::
+342:::test/
+343:::
+344:::test/
+345:::
+346:::test/
+347:::
+348:::test/
+349:::
+350:::test/
+351:::
+352:::
+353:::
+354:::
+355:::
+356:::
+357:::
+358:::
+359:::
+360:::
+361:::
+362:::
+363:::
+364:::
+365:::
+366:::
+367:::
+368:::
+369:::
+370:::
+371:::
+372:::
+373:::
+374:::
+375:::
+376:::
+377:::
+378:::
+379:::
+380:::
+381:::
+382:::
+383:::
+384:::
+385:::
+386:::
+387:::
+388:::
+389:::
+390:::
+391:::
+392:::
+393:::
+394:::
+395:::
+396:::
+397:::
+398:::
+399:::
+400:::
+401:::
+402:::
+403:::
+404:::
+405:::
+406:::
+407:::
+408:::
+409:::
+410:::
+411:::
+412:::
+413:::
+414:::
+415:::
+416:::
+417:::
+418:::
+419:::
+420:::
+421:::
+422:::
+423:::
+424:::
+425:::
+426:::
+427:::
+428:::
+429:::
+430:::
+431:::
+432:::
+433:::
+434:::
+435:::
+436:::
+437:::
+438:::
+439:::
+440:::
+441:::
+442:::
+443:::
+444:::
+445:::
+446:::
+447:::
+448:::
+449:::
+450:::
+451:::
+452:::
+453:::
+454:::
+455:::
+456:::
+457:::
+458:::
+459:::
+460:::
+461:::
+462:::
+463:::
+464:::
+465:::
+466:::
+467:::
+468:::
+469:::
+470:::
+471:::
+472:::
+473:::
+474:::
+475:::Use the Chronosorter and adjust the water level
+476:::
+477:::
+478:::
+479:::
+480:::
+481:::
+482:::
+483:::
+484:::
+485:::
+486:::test/
+487:::
+488:::
+489:::
+490:::
+491:::
+492:::
+493:::
+494:::
+495:::
+496:::
+497:::
+498:::
+499:::
+500:::
+501:::
+502:::
+503:::
+504:::
+505:::
+506:::
+507:::
+508:::
+509:::
+510:::
+511:::
+512:::
+513:::
+514:::
+515:::
+516:::
+517:::
+518:::
+519:::
+520:::
+521:::
+522:::Inspect
+523:::Inspect
+524:::Inspect
+525:::Inspect
+526:::Inspect
+527:::Inspect
+528:::Inspect
+529:::Inspect
+530:::Inspect
+531:::Inspect
+532:::Inspect
+533:::Inspect
+534:::Inspect
+535:::Inspect
+536:::Inspect
+537:::Inspect
+538:::Inspect
+539:::Inspect
+540:::Inspect
+541:::Inspect
+542:::Inspect
+543:::Inspect
+544:::Inspect
+545:::Inspect
+546:::Inspect
+547:::Inspect
+548:::Inspect
+549:::
+550:::
+551:::
+552:::
+553:::
+554:::
+555:::Challenge Complete
+556:::
+557:::
+558:::
+559:::
+560:::
+561:::Activate
+562:::
+563:::Challenge Complete
+564:::
+565:::
+566:::
+567:::
+568:::
+569:::Activate
+570:::
+571:::Challenge Complete
+572:::
+573:::
+574:::
+575:::
+576:::
+577:::Activate
+578:::
+579:::Challenge Complete
+580:::
+581:::
+582:::
+583:::
+584:::
+585:::Activate
+586:::
+587:::Challenge Complete
+588:::Challenge Failed
+589:::
+590:::Fill in the missing ice cube by sitting in the right spot as Clang Bang facing the correct direction
+591:::
+592:::
+593:::Challenge Complete
+594:::Challenge Failed
+595:::
+596:::Fill in the missing ice cube by sitting in the right spot as Clang Bang facing the correct direction
+597:::
+598:::
+599:::Challenge Complete
+600:::
+601:::test/
+602:::
+603:::
+604:::
+605:::
+606:::
+607:::
+608:::
+609:::Challenge Failed
+610:::
+611:::
+612:::
+613:::
+614:::Use Utility - Chrono Sign to temporarily freeze the TDs
+615:::
+616:::Protect the security node
+617:::Node Integrity: {q_count}
+618:::Defeat TDs: {q_count}/7
+619:::Challenge Complete
+620:::
+621:::
+622:::
+623:::
+624:::Challenge Failed
+625:::
+626:::
+627:::
+628:::
+629:::Use Utility - Chrono Sign to temporarily freeze the TDs
+630:::
+631:::Protect the security node
+632:::Node Integrity: {q_count}
+633:::Defeat TDs: {q_count}/6
+634:::Challenge Complete
+635:::
+636:::
+637:::
+638:::
+639:::Challenge Failed
+640:::
+641:::Transform into Clang Bang and break the barrier
+642:::
+643:::Challenge Complete
+644:::
+645:::
+646:::Challenge Failed
+647:::
+648:::
+649:::Observe the way the ice cubes are located, and place the Clang Bang at the right position, facing the right direction
+650:::
+651:::Challenge Complete
+652:::
+653:::
+654:::Challenge Failed
+655:::
+656:::Transform into Clang Bang and break the barrier
+657:::
+658:::
+659:::
+660:::
+661:::Challenge Complete
+662:::
+663:::
+664:::
+665:::
+666:::
+667:::
+668:::
+669:::
+670:::test/
+671:::
+672:::Start Challenge
+673:::Defeat the emerging TDs: {q_count}/13
+674:::Leave the Simulation
+675:::
+676:::
+677:::Start Challenge
+678:::Defeat the emerging TDs: {q_count}/15
+679:::Leave the Simulation
+680:::
+681:::
+682:::Start Challenge
+683:::Defeat the emerging TDs: {q_count}/6
+684:::Leave the Simulation
+685:::
+686:::
+687:::Start Challenge
+688:::Defeat the emerging TDs: {q_count}/12
+689:::Leave the Simulation
+690:::
+691:::
+692:::Start Challenge
+693:::Defeat the emerging TDs: {q_count}/5
+694:::Leave the Simulation
+695:::
+696:::Find Changli
+697:::Follow the voice calling for help
+698:::Continue onward
+699:::Go deeper into the ruins
+700:::Find Rover
+701:::Find Rover
+702:::Clear the roadblock
+703:::Proceed to the end of the Sonoro Sphere
+704:::
+705:::Defeat the TDs in your way
+706:::
+707:::
+708:::Defeat the Chrono Shadow
+709:::Go to a safer location with the little girl
+710:::Solve the puzzle with the little girl
+711:::Continue onward
+712:::Clear the roadblock and continue onward
+713:::Continue onward
+714:::Investigate the Familiar Mirage
+715:::Find a way to get inside together
+716:::Defeat the TDs guarding the ruins
+717:::Defeat the TDs guarding the ruins
+718:::Investigate the mechanisms inside the ruins
+719:::Connect the light beams of the mechanism
+720:::Defeat the TDs in your way
+721:::Solve Master Xuanmiao's puzzles
+722:::Connect the light beams of the mechanism
+723:::
+724:::Continue onward
+725:::Investigate the Familiar Mirage
+726:::Walk Through the Gate
+727:::Continue onward
+728:::
+729:::
+730:::
+731:::
+732:::
+733:::
+734:::
+735:::
+736:::
+737:::
+738:::
+739:::Enter
+740:::Open
+741:::Open
+742:::
+743:::
+744:::
+745:::
+746:::
+747:::
+748:::
+749:::
+750:::
+751:::
+752:::
+753:::
+754:::
+755:::
+756:::
+757:::
+758:::
+759:::
+760:::Interact with the Remnant Key to start
+761:::
+762:::
+763:::
+764:::
+765:::
+766:::
+767:::
+768:::
+769:::
+770:::
+771:::A new enemy is approaching
+772:::A new enemy is approaching
+773:::A new enemy is approaching
+774:::A new enemy is approaching
+775:::A new enemy is approaching
+776:::A new enemy is approaching
+777:::A new enemy is approaching
+778:::Interact
+779:::
+780:::Progress
+781:::Interact with the Remnant Key to start
+782:::BossRush Points: {q_count}
+783:::Defeat all enemies ({q_count}/8)
+784:::Earn 1000 points
+785:::Earn 1000 points
+786:::Defeat all enemies ({q_count}/8)
+787:::Challenge Complete
+788:::Interact with the Remnant Key to start
+789:::
+790:::
+791:::
+792:::
+793:::
+794:::
+795:::
+796:::
+797:::
+798:::A new enemy is approaching
+799:::A new enemy is approaching
+800:::A new enemy is approaching
+801:::A new enemy is approaching
+802:::A new enemy is approaching
+803:::A new enemy is approaching
+804:::Begin Challenge
+805:::
+806:::Progress
+807:::Interact with the Remnant Key to start
+808:::Defeat all enemies ({q_count}/7)
+809:::Current Points: {q_count}
+810:::Earn 1000 points
+811:::Earn 1000 points
+812:::Defeat all enemies ({q_count}/7)
+813:::Challenge Complete
+814:::Interact with the Remnant Key to start
+815:::
+816:::
+817:::
+818:::
+819:::
+820:::
+821:::
+822:::
+823:::A new enemy is approaching
+824:::A new enemy is approaching
+825:::A new enemy is approaching
+826:::A new enemy is approaching
+827:::A new enemy is approaching
+828:::Begin Challenge
+829:::
+830:::Progress
+831:::Interact with the Remnant Key to start
+832:::Defeat all enemies ({q_count}/6)
+833:::Current Points: {q_count}
+834:::Earn 1000 points
+835:::Earn 1000 points
+836:::Defeat all enemies ({q_count}/6)
+837:::Challenge Complete
+838:::Interact with the Remnant Key to start
+839:::
+840:::
+841:::
+842:::
+843:::
+844:::
+845:::
+846:::A new enemy is approaching
+847:::A new enemy is approaching
+848:::A new enemy is approaching
+849:::A new enemy is approaching
+850:::Begin Challenge
+851:::
+852:::Progress
+853:::Interact with the Remnant Key to start
+854:::Defeat all enemies ({q_count}/5)
+855:::Current Points: {q_count}
+856:::Earn 1000 points
+857:::Earn 1000 points
+858:::Defeat all enemies ({q_count}/5)
+859:::Challenge Complete
+860:::Interact with the Remnant Key to start
+861:::
+862:::
+863:::
+864:::
+865:::
+866:::
+867:::
+868:::A new enemy is approaching
+869:::A new enemy is approaching
+870:::A new enemy is approaching
+871:::A new enemy is approaching
+872:::Begin Challenge
+873:::
+874:::Progress
+875:::Interact with the Remnant Key to start
+876:::Defeat all enemies ({q_count}/4)
+877:::Current Points: {q_count}
+878:::Earn 1000 points
+879:::Earn 1000 points
+880:::Defeat all enemies ({q_count}/4)
+881:::Challenge Complete
+882:::Interact with the Remnant Key to start
+883:::
+884:::
+885:::
+886:::
+887:::
+888:::
+889:::A new enemy is approaching
+890:::A new enemy is approaching
+891:::A new enemy is approaching
+892:::Begin Challenge
+893:::
+894:::Progress
+895:::Interact with the Remnant Key to start
+896:::Defeat all enemies ({q_count}/3)
+897:::Current Points: {q_count}
+898:::Earn 1000 points
+899:::Defeat all enemies ({q_count}/3)
+900:::Earn 1000 points
+901:::Challenge Complete
+902:::Interact with the Remnant Key to start
+903:::
+904:::
+905:::
+906:::
+907:::
+908:::
+909:::
+910:::
+911:::
+912:::You may keep practicing or leave
+913:::
+914:::
+915:::Challenge complete! You may keep practicing or leave
+916:::
+917:::Interact with the Remnant Key to start
+918:::
+919:::
+920:::
+921:::
+922:::
+923:::
+924:::
+925:::
+926:::You may keep practicing or leave
+927:::
+928:::Challenge complete! You may keep practicing or leave
+929:::
+930:::
+931:::Confront the Sentinel "Jué"
+932:::
+933:::Confront the Sentinel "Jué"
+934:::
+935:::
+936:::Leave the Temporal Loop
+937:::
+938:::
+939:::
+940:::
+941:::
+942:::
+943:::
+944:::
+945:::
+946:::
+947:::Challenge Complete
+948:::Confront the Sentinel "Jué"
+949:::Leave the Temporal Loop
+950:::
+951:::Complete the challenges in the Offering Site
+952:::
+953:::
+954:::
+955:::
+956:::Lightcrusher Duo
+957:::
+958:::
+959:::
+960:::
+961:::Suspicious Chest
+962:::
+963:::
+964:::
+965:::
+966:::
+967:::
+968:::
+969:::
+970:::
+971:::
+972:::
+973:::
+974:::
+975:::
+976:::
+977:::
+978:::
+979:::
+980:::
+981:::Start Challenge
+982:::Defeat TD: {q_count}/8
+983:::Leave the Simulation
+984:::
+985:::
+986:::Start Challenge
+987:::Defeat TD: {q_count}/10
+988:::Leave the Simulation
+989:::
+990:::Challenge failed
+991:::Challenge failed
+992:::Challenge failed
+993:::Challenge failed
+994:::Challenge failed
+995:::Challenge failed
+996:::Challenge failed
+997:::Challenge failed
+998:::Challenge failed
+999:::Challenge failed
+1000:::
