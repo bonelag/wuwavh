@@ -1,13 +1,16 @@
-# 25/12/2025 update ver 3.0 dành cho launcher và steam. Bản dịch sẽ hơi lỏ vì ko dùng đc gemini AI :).
+# 04/01/2026 update ver 3.0 dành cho launcher và steam. ~~Bản dịch sẽ hơi lỏ vì ko dùng đc gemini AI~~ Thử dùng MistralAI :).
 # Wuthering Waves Việt Hóa 
 lưu ý vui lòng không sử dụng tài khoản chính.
 LỆNH CẤM LUÔN LUÔN LÀ 10 NĂM.
+
+<!--
 <details>
 <summary>📌 Click cho ăn xin :) </summary>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/82c42a37-e5d5-4b52-bc1f-27348a734a8e" width="724" height="1459">
 </p>
 </details>
+-->
 
 Trước khi đồ thừa cho cái gì ăn cắp thông tin của bạn tại sao không kiểm tra máy mình trước. Xem [hướng dẫn](https://github.com/Lai-Hoang/wuwa-viet-hoa/blob/main/Cach_quet_virus_may_ban.md).
 <br>
